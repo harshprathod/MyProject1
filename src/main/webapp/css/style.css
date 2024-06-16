@@ -1,0 +1,57 @@
+/* Background color */
+.backg {
+	background: #f4eeff;
+}
+
+/* navbar color */
+.purple {
+	background: #f95959;
+}
+
+#smtbtn {
+	background: #455d7a;
+	border: 1px;
+	border-color: 233142;
+}
+
+.jumbotron-custom {
+	background-image: url('img/notes-bg.jpg');
+	background-size: cover;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	padding: 4rem 2rem;
+	border-radius: 10px;
+}
+
+.jumbotron-custom h1 {
+	font-size: 3rem;
+	font-weight: bold;
+}
+
+.jumbotron-custom p {
+	font-size: 1.25rem;
+}
+
+.card-custom {
+	margin-bottom: 20px;
+	border: none;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	transition: transform 0.2s;
+}
+
+.card-custom:hover {
+	transform: scale(1.05);
+}
+
+.card-img-top {
+	border-top-left-radius: calc(0.25rem - 1px);
+	border-top-right-radius: calc(0.25rem - 1px);
+	height: 200px;
+	object-fit: cover;
+}
+
+.homediv{
+	
+	
+	background-image: url('img/background.jpg');
+}
